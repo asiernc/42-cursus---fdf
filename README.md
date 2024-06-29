@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">
-    <img src="./img.png" width= "200px">
-    <br>Push swap</br>
+    <br>FildeFer (FdF)</br>
 </h1>
 <p align="center">
     <img src="https://img.shields.io/badge/Barcelona-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000" alt="42 Barcelona"/>
@@ -10,9 +9,9 @@
 
 ## Table of Contents
 - [Summary](#-summary)
-- [Qualification](#-qualification)
 - [Simple example of functionality](#-simpleexampleoffunctionality)
 - [Usage](#-usage)
+- [Usage](#-screenshots)
 - [Installation](#-installation)
 
 
